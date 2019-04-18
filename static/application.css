@@ -14,6 +14,13 @@ body {
 	padding: 0;
 }
 
+.logo {
+	position: absolute;
+	float: right;
+	
+}
+
+
 textarea {
 	background: transparent;
 	border: 0;
