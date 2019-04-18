@@ -15,9 +15,9 @@ body {
 }
 
 .logo {
-	position: absolute;
+	position: relative;
 	float: right;
-	
+
 }
 
 
